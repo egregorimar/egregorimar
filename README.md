@@ -1,11 +1,16 @@
-### Hola! 👋
+### Hello! 👋
 
-Me llamo Ernesto Gregori y actualmente trabajo como Junior Data Scientist en Innaxis (Madrid).
+My name is Ernesto Gregori and I am a data scientist with strong background in mathematics and machine learning.
 
-He completado el máster de Big Data Analytics de la UC3M y el grado de Física de la UAM. Mi principal interés es el Machine Learning y concretamente sus aplicaciones a datos espaciales (movilidad urbana, contaminación…).
+I hold a **master's degree in Big Data** from Universidad Carlos III de Madrid and a **bachelor's degree in Physics** from Universidad Autónoma de Madrid.
 
-Mi TFM trata de la predicción del número de Airbnbs en cada zona de Barcelona usando modelos espaciales en Python y lo realicé en colaboración con investigadores del BSC (Barcelona Supercomputing Center). Si quieres verlo, [puedes pulsar aquí.](https://github.com/egregorimar/urbana) 
+I work as **Junior Data Scientist** at [Innaxis](https://innaxis.aero/) (Madrid). So far, I have worked in two European projects:
+* [Dispatcher3](https://dispatcher3.eu/), a Horizon 2020 project where I applied Machine Learning to estimate the variability between planned and executed flight plans prior departure. More specifically, I focused on predicting the fuel consumption of aircrafts.
+* [Modus](https://modus-project.eu/), a SESAR project where I modelled door-to-door journeys in intermodal transport systems. More specifically, I focused on simulating complete passenger journeys involving both air and rail transport.
 
-También he realizado un voluntariado como analista de datos en Data for Good France para desarrollar una plataforma open-source que permita acceder a datos climáticos de distintas fuentes.
+For these project, my main tools were:
+* **Spark (Databricks)** to collect and process the data with **AWS**.
+* **Scikit-learn** and **TensorFlow** to design models.
+* **HyperOpt** and **MLflow** to optimize and track models.
 
-Y si quieres saber más sobre mi, puedes ver [mi LinkedIn.](https://www.linkedin.com/in/ernestogregori/) 
+If you want to know more about me, you can check [my LinkedIn.](https://www.linkedin.com/in/egregorimar/) 
